@@ -1,2 +1,2 @@
 # advancedJavaScript
-Base repository for Siemens Advanced JS Course
+[Kodlama.io](https://www.kodlama.io) Course 10 (for JavaScript Intro)
